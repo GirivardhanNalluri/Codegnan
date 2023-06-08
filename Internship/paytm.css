@@ -209,3 +209,42 @@ nav{
 .content2{
     padding: 40px 70px 0 90px;
 }
+.main2{
+    clear: both;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.main3{
+    padding-left: 120px;
+    clear: both;
+    background-color: rgba(232, 236, 244, 0.354);
+}
+.flow{
+    background-color: #00baf2ad ;
+    padding: 5px 6px 7px 6px;
+    border-radius: 10px;
+    margin-left: 35px;
+}
+.flow:hover{
+    background-color: #00baf2;
+}
+.flow img{
+    border-radius: 10px;
+}
+.flow h4{
+    color: #fff;
+    font-size: large;
+}
+.control{
+    width: 1000px;
+    overflow-x: scroll;
+}
+.side a{
+    text-decoration: none;
+    color: #00baf2;
+    font-weight: bold;
+}
+.side a:hover{
+    color: #002970;
+}
